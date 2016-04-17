@@ -12,9 +12,9 @@
 */
 
 Route::get('/', function () {
-    return redirect('/google-anuncia-o-serviço-google-fibra-no-brasil-em-2017-31415926535171');
+    return redirect('/google-anuncia-o-serviço-google-fibra-no-brasil-em-2017-31415926534171');
 });
 
-Route::get('google-anuncia-o-serviço-google-fibra-no-brasil-em-2017-31415926535171', function () {
+Route::get('google-anuncia-o-serviço-google-fibra-no-brasil-em-2017-31415926534171', function () {
     return view('welcome');
 });
