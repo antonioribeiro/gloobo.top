@@ -32,7 +32,7 @@
     <meta name="twitter:image" content="http://og.infg.com.br/brasil/19091118-62e-85f/FT631A/201604150925184073.jpg">
     <link rel="publisher" href="https://plus.google.com/+JornalOGlobo/" />
     <link rel="alternate" type="application/rss+xml" href="http://oglobo.globo.com/rss.xml?secao=pais" title="O Globo - Brasil" />
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" />
     <link rel="stylesheet" type="text/css" href="http://css.og.infg.com.br/1459981607/css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="http://css.og.infg.com.br/1459981607/css/foundation16.css"/>
     <link rel="stylesheet" type="text/css" href="http://css.og.infg.com.br/1459981607/css/normalize.css"/>
@@ -1419,21 +1419,9 @@ Foto: Givaldo Barbosa / O Globo" src="http://og.infg.com.br/in/19094065-a68-08c/
         </script>
         <style>.estou-interessado .no-image .subtitulo {text-transform:none; font-weight:normal; line-height:20px; margin:20px 0;}</style>
     </footer>
-    <div class="scripts">
-        <script type="text/javascript">//<![CDATA[
-            var clientDT = new Date().getTime();
-            document.write('<img style="display:none;" src="http://analysis.infoglobo.com.br/analysis-logger/Logger?rt=1&ctxId=3046&pubId=425472&cat=pais&meta=read-materia&objId=19090536&type=article&title=Cardozo+e+Miguel+Reale+fazem+defesas+enf%c3%a1ticas+contra+e+pr%c3%b3-impeachment+em+sess%c3%a3o+da+C%c3%a2mara&url=http%3a%2f%2foglobo.globo.com%2fbrasil%2fcardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
-            //]]>
-        </script>
-        <noscript>
-            <div>
-                <img src="http://analysis.infoglobo.com.br/analysis-logger/Logger?rt=1&ctxId=3046&pubId=425472&cat=pais&meta=read-materia&objId=19090536&type=article&title=Cardozo+e+Miguel+Reale+fazem+defesas+enf%c3%a1ticas+contra+e+pr%c3%b3-impeachment+em+sess%c3%a3o+da+C%c3%a2mara&url=http%3a%2f%2foglobo.globo.com%2fbrasil%2fcardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536" alt="" width="1" height="1"/>
-            </div>
-        </noscript>
-    </div>
+
     <script type="text/javascript" src="http://js.og.infg.com.br/1459981607/js/jquery.sticky.js"></script>
     <script type="text/javascript" src="http://js.og.infg.com.br/1459981607/js/jcarousellite.min.js"></script>
-    <script type="text/javascript">var idConteudo = 19090536;</script>
     <script src="http://js.og.infg.com.br/1459981607/js/include/utilGTM.js"></script>
     <script src="http://js.og.infg.com.br/1459981607/js/iscroll.min.js"></script>
     <script src="http://js.og.infg.com.br/1459981607/js/materiaWEB.js"></script>
