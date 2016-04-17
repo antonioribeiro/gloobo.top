@@ -4,10 +4,17 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
-    "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "5.2.*"
-    },
+  "require": {
+    "php": ">=5.5.9",
+    "laravel/framework": "5.2.*",
+    "pragmarx/sdk": "dev-master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url":  "https://github.com/antonioribeiro/sdk.git"
+    }
+  ],
     "require-dev": {
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
