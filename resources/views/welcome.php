@@ -488,7 +488,7 @@
                                 <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">
                                     <img width="380" height="230" alt="O jurista Miguel Reale Jr. e o ministro da AGU Jos&eacute; Eduardo Cardozo Foto: Ailton de Freitas / O GLOBO" title="O jurista Miguel Reale Jr. e o ministro da AGU Jos&eacute; Eduardo Cardozo Foto: Ailton de Freitas / O GLOBO" src="http://og.infg.com.br/in/19092041-398-b29/FT1086A/230/camara-materia-1.jpg"/>
                                 </a>
-                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">Cardozo e Miguel Reale fazem defesas enfáticas contra e pró-impeachment</a>
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">Google anuncia o serviço Google Fiber no Brasil em 2017</a>
                             </div>
                             <div class="large-5 columns">
                                 <a href="http://oglobo.globo.com/brasil/nyt-ressalta-que-dilma-alvo-de-deputados-envolvidos-em-escandalos-19095030" title="‘NYT’ ressalta que Dilma é alvo de deputados envolvidos em escândalos">
