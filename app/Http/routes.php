@@ -12,9 +12,9 @@
 */
 
 Route::get('/', function () {
-    return redirect('/manifestacoes-contra-a-favor-do-impeachment-se-espalham-pelo-pais-google-anuncia-o-serviço-google-fiber-no-brasil-em-2017-314159265358979');
+    return redirect('/google-anuncia-o-serviço-google-fiber-no-brasil-em-2017-314159265358979');
 });
 
-Route::get('manifestacoes-contra-a-favor-do-impeachment-se-espalham-pelo-pais-google-anuncia-o-serviço-google-fiber-no-brasil-em-2017-314159265358979', function () {
+Route::get('google-anuncia-o-serviço-google-fiber-no-brasil-em-2017-314159265358979', function () {
     return view('welcome');
 });
