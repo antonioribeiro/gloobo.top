@@ -86,26 +86,6 @@
     </script>
     <script src="http://oglobo.globo.com/plataforma/js/1459981607/minificados/paywall/controla-acesso.js" type="text/javascript"></script>
     <script src="http://js.og.infg.com.br/1459981607/js/controla-acesso-aux.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        $(document).ready( function() {
-            ControlaAcesso.registrar({
-                id: "19090536",
-                nomeConfig: "oglobo",
-                exigirLogin: false,
-                exibirPatrocinio: ControlaAcesso.aux.mostrarMensagemPatrocinio,
-                enviarMensagem : ControlaAcesso.aux.mostrarMensagem,
-                aoCompletar: ControlaAcesso.aux.aoCompletar,
-                aoAutorizar: ""
-            });
-        });
-        var passouBarreira = "passouBarreira";
-        var urlPaginaAnterior = ControlaAcesso.aux.Utils.obterCookie("infgPagAnterior");
-        $(window).bind("load", function() {
-            if ((urlPaginaAnterior.match(passouBarreira) != null) || (conteudoFechado && colunistaFechado)) {
-                ControlaAcesso.aux.aoCompletarColunista();
-            }
-        });
-    </script>
     <script type="text/javascript" src="http://oglobo.globo.com/plataforma/js/1459981607/minificados/autenticacao/infg_id_globoid.js"></script>
     <script src="http://js.og.infg.com.br/1459981607/js/personalizacao.js" type="text/javascript"></script>
     <script>
@@ -177,12 +157,6 @@
         var value2 = 'Materia';
         var posJogo = '';
     </script>
-    <script type="text/javascript">
-        var gtm = {"idMateria":"19090536","dtPublicacao":"20160415","hrPublicacao":"08","tags":"","autores":"#Eduardo das Neves#","tipoConteudo":"materia","possuiMultimidia":"Sim","qtdLinks":"10","qtdCaracteres":"9322","agenciaNoticias":"","qtdComentarios":"31","paginaAnterior":"www.google.com.br","origem":"viral"};
-        gtm.topicos = "#Impeachment#";
-        gtm.palavraChave = "#Dilma/PT#";
-        gtm.tipoConteudo = "Materia";
-    </script>
     <!--Visual Revenue Reader Response Tracking Script (v6) -->
     <script type="text/javascript">
         var _vrq = _vrq || [];
@@ -221,23 +195,6 @@
     })(window,document,'script','dataLayer','GTM-54BR4R');</script>
 <!-- End Google Tag Manager -->
 <!-- Tealium -->
-<script type="text/javascript">
-    var DFP_adCustomData = "video_duration=menor_2min";
-    var DFP_adUnit = "info.web.oglobo/videos";
-    var topicos = "#Impeachment#";
-    topicos = topicos.replace(/#/g, ',');
-    topicos = topicos.substr(1, topicos.length-2);
-    var utag_data = {
-        produto : "O Globo",
-        tipo_pagina : "Materia",
-        editoria : "brasil",
-        id_conteudo : "19090536",
-        entidades : ["Dilma/PT"],
-        topicos : [topicos],
-        especial_publicitario : "0",
-        pageLevelTargeting: {"ognCluster":[]}
-    }
-</script>
 <!-- Loading script asynchronously -->
 <script type="text/javascript">
     (function(a,b,c,d){
@@ -469,12 +426,6 @@
                         <li id="comentar">
                             <a href="#coments" class="comentar">Comentar</a>
                         </li>
-                        <script src="http://oglobo.globo.com/plataforma/js/1459981607/minificados/encurtador-url.js" type="text/javascript"></script><script>EncurtadorInfoglobo.urls[19090536] = {"twitter" : "http://glo.bo/1p47thM", "facebook" : "http://glo.bo/1p41yt7", "whatsapp" : "http://glo.bo/1p44Tbs", "googleplus" : "http://glo.bo/1Nd3qen"};</script>
-                        <script type="text/javascript">
-                            var contagemLigada = "true";
-                            var dadosCompartilhamento = {"articleId":19090536,"articleTitle":"Cardozo+e+Miguel+Reale+fazem+defesas+enf%C3%A1ticas+contra+e+pr%C3%B3-impeachment+em+sess%C3%A3o+da+C%C3%A2mara","articleUrl":"http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171","articleType":"materia","informePublicitario":false,"sectionUrl":"http://oglobo.globo.com/brasil/","sectionName":"Brasil","sectionId":"3046","publicationUrl":"http://oglobo.globo.com/","facebookAppId":"431855430329169","articleDescription":"Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha","articlePicture":"http://og.infg.com.br/brasil/19091118-62e-85f/FT460B/220/201604150925184073.jpg","classe":" sharing"};
-                            var imagemConteudoOglobo = "http://css.og.infg.com.br/1459981607/img/oglobo.jpg";
-                        </script>
                         <li id="compartilhar"
                             class="artigo-interacao compartilhamento-angular"
                             data-ng-controller="compartilhamentoController"
@@ -685,11 +636,6 @@ Foto: Reprodu&ccedil;&atilde;o Internet" src="http://og.infg.com.br/in/19095029-
             <div class="large-16 columns">
                 <div class="corpo novo large-16 columns" itemprop="articleBody">
                     <div class="meta">
-                        <script>EncurtadorInfoglobo.urls[19090536] = {"twitter" : "http://glo.bo/1p47thM", "facebook" : "http://glo.bo/1p41yt7", "whatsapp" : "http://glo.bo/1p44Tbs", "googleplus" : "http://glo.bo/1Nd3qen"};</script>
-                        <script>
-                            var dadosCompartilhamento = {"articleId":19090536,"articleTitle":"Cardozo+e+Miguel+Reale+fazem+defesas+enf%C3%A1ticas+contra+e+pr%C3%B3-impeachment+em+sess%C3%A3o+da+C%C3%A2mara","articleUrl":"http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171","articleType":"materia","informePublicitario":false,"sectionUrl":"http://oglobo.globo.com/brasil/","sectionName":"Brasil","sectionId":"3046","publicationUrl":"http://oglobo.globo.com/","facebookAppId":"431855430329169","articleDescription":"Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha","articlePicture":"http://og.infg.com.br/brasil/19091118-62e-85f/FT460B/220/201604150925184073.jpg","classe":" sharing"};
-                            var imagemConteudoOglobo = "http://css.og.infg.com.br/1459981607/img/oglobo.jpg";
-                        </script>
                         <div id="compartilharInline"
                              data-ng-controller="compartilhamentoController"
                              data-ng-init="init();" class="compartilhamento-angular sharing">
