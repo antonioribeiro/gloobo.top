@@ -6,14 +6,14 @@
     </title>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="amphtml" href="http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536?versao=amp">
+    <link rel="amphtml" href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171?versao=amp">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="canonical" href="http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536" />
+    <link rel="canonical" href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" />
     <meta content="Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha" name="description"/>
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Google anuncia o serviço Google Fiber no Brasil em 2017" />
     <meta property="og:description" content="Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha" />
-    <meta property="og:url" content="http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536" />
+    <meta property="og:url" content="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" />
     <meta property="og:image" content="http://og.infg.com.br/brasil/19091118-62e-85f/FT460B/220/201604150925184073.jpg" />
     <meta property="og:locale" content="pt_BR" />
     <meta property="og:site_name" content="O Globo" />
@@ -472,7 +472,7 @@
                         <script src="http://oglobo.globo.com/plataforma/js/1459981607/minificados/encurtador-url.js" type="text/javascript"></script><script>EncurtadorInfoglobo.urls[19090536] = {"twitter" : "http://glo.bo/1p47thM", "facebook" : "http://glo.bo/1p41yt7", "whatsapp" : "http://glo.bo/1p44Tbs", "googleplus" : "http://glo.bo/1Nd3qen"};</script>
                         <script type="text/javascript">
                             var contagemLigada = "true";
-                            var dadosCompartilhamento = {"articleId":19090536,"articleTitle":"Cardozo+e+Miguel+Reale+fazem+defesas+enf%C3%A1ticas+contra+e+pr%C3%B3-impeachment+em+sess%C3%A3o+da+C%C3%A2mara","articleUrl":"http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536","articleType":"materia","informePublicitario":false,"sectionUrl":"http://oglobo.globo.com/brasil/","sectionName":"Brasil","sectionId":"3046","publicationUrl":"http://oglobo.globo.com/","facebookAppId":"431855430329169","articleDescription":"Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha","articlePicture":"http://og.infg.com.br/brasil/19091118-62e-85f/FT460B/220/201604150925184073.jpg","classe":" sharing"};
+                            var dadosCompartilhamento = {"articleId":19090536,"articleTitle":"Cardozo+e+Miguel+Reale+fazem+defesas+enf%C3%A1ticas+contra+e+pr%C3%B3-impeachment+em+sess%C3%A3o+da+C%C3%A2mara","articleUrl":"http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171","articleType":"materia","informePublicitario":false,"sectionUrl":"http://oglobo.globo.com/brasil/","sectionName":"Brasil","sectionId":"3046","publicationUrl":"http://oglobo.globo.com/","facebookAppId":"431855430329169","articleDescription":"Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha","articlePicture":"http://og.infg.com.br/brasil/19091118-62e-85f/FT460B/220/201604150925184073.jpg","classe":" sharing"};
                             var imagemConteudoOglobo = "http://css.og.infg.com.br/1459981607/img/oglobo.jpg";
                         </script>
                         <li id="compartilhar"
@@ -534,10 +534,10 @@
                         <h3>Assuntos em Destaque</h3>
                         <div class="row">
                             <div class="large-5 columns">
-                                <a href="http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536" title="Google anuncia o serviço Google Fiber no Brasil em 2017">
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">
                                     <img width="380" height="230" alt="O jurista Miguel Reale Jr. e o ministro da AGU Jos&eacute; Eduardo Cardozo Foto: Ailton de Freitas / O GLOBO" title="O jurista Miguel Reale Jr. e o ministro da AGU Jos&eacute; Eduardo Cardozo Foto: Ailton de Freitas / O GLOBO" src="http://og.infg.com.br/in/19092041-398-b29/FT1086A/230/camara-materia-1.jpg"/>
                                 </a>
-                                <a href="http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536" title="Google anuncia o serviço Google Fiber no Brasil em 2017">Cardozo e Miguel Reale fazem defesas enfáticas contra e pró-impeachment</a>
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">Cardozo e Miguel Reale fazem defesas enfáticas contra e pró-impeachment</a>
                             </div>
                             <div class="large-5 columns">
                                 <a href="http://oglobo.globo.com/brasil/nyt-ressalta-que-dilma-alvo-de-deputados-envolvidos-em-escandalos-19095030" title="‘NYT’ ressalta que Dilma é alvo de deputados envolvidos em escândalos">
@@ -687,7 +687,7 @@ Foto: Reprodu&ccedil;&atilde;o Internet" src="http://og.infg.com.br/in/19095029-
                     <div class="meta">
                         <script>EncurtadorInfoglobo.urls[19090536] = {"twitter" : "http://glo.bo/1p47thM", "facebook" : "http://glo.bo/1p41yt7", "whatsapp" : "http://glo.bo/1p44Tbs", "googleplus" : "http://glo.bo/1Nd3qen"};</script>
                         <script>
-                            var dadosCompartilhamento = {"articleId":19090536,"articleTitle":"Cardozo+e+Miguel+Reale+fazem+defesas+enf%C3%A1ticas+contra+e+pr%C3%B3-impeachment+em+sess%C3%A3o+da+C%C3%A2mara","articleUrl":"http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536","articleType":"materia","informePublicitario":false,"sectionUrl":"http://oglobo.globo.com/brasil/","sectionName":"Brasil","sectionId":"3046","publicationUrl":"http://oglobo.globo.com/","facebookAppId":"431855430329169","articleDescription":"Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha","articlePicture":"http://og.infg.com.br/brasil/19091118-62e-85f/FT460B/220/201604150925184073.jpg","classe":" sharing"};
+                            var dadosCompartilhamento = {"articleId":19090536,"articleTitle":"Cardozo+e+Miguel+Reale+fazem+defesas+enf%C3%A1ticas+contra+e+pr%C3%B3-impeachment+em+sess%C3%A3o+da+C%C3%A2mara","articleUrl":"http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171","articleType":"materia","informePublicitario":false,"sectionUrl":"http://oglobo.globo.com/brasil/","sectionName":"Brasil","sectionId":"3046","publicationUrl":"http://oglobo.globo.com/","facebookAppId":"431855430329169","articleDescription":"Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha","articlePicture":"http://og.infg.com.br/brasil/19091118-62e-85f/FT460B/220/201604150925184073.jpg","classe":" sharing"};
                             var imagemConteudoOglobo = "http://css.og.infg.com.br/1459981607/img/oglobo.jpg";
                         </script>
                         <div id="compartilharInline"
@@ -1049,11 +1049,11 @@ Foto: Givaldo Barbosa/14-10-2015 / Ag&ecirc;ncia O Globo" src="http://og.infg.co
                     <div id="emDestaque" class="slider-materia-wrapper">
                         <ul class="clearfix">
                             <li>
-                                <a href="http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536">
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171">
                                     <img width="234" height="140" alt="O jurista Miguel Reale Junior, &agrave; esquerda, e o advogado-geral da Uni&atilde;o, &agrave; direita, na sess&atilde;o da C&acirc;mara que analisa o impeachment da presidente Dilma Foto: A&iacute;lton de Freitas / Ag&ecirc;ncia O Globo" title="O jurista Miguel Reale Junior, &agrave; esquerda, e o advogado-geral da Uni&atilde;o, &agrave; direita, na sess&atilde;o da C&acirc;mara que analisa o impeachment da presidente Dilma Foto: A&iacute;lton de Freitas / Ag&ecirc;ncia O Globo" src="http://og.infg.com.br/in/19091172-62b-b87/FT1086A/140/impzz.jpg"/>
                                 </a>
                                 <p class="editoria">Brasil</p>
-                                <a href="http://oglobo.globo.com/brasil/cardozo-miguel-reale-fazem-defesas-enfaticas-contra-pro-impeachment-em-sessao-da-camara-19090536" class="titulo">Ao vivo: Deputados discursam sobre votação do impeachment</a>
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" class="titulo">Ao vivo: Deputados discursam sobre votação do impeachment</a>
                             </li>
                             <li>
                                 <a href="http://oglobo.globo.com/brasil/dilma-fara-defesa-de-seu-mandato-na-tv-nesta-sexta-feira-19092083">
