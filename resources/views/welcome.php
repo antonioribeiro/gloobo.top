@@ -6,33 +6,11 @@
     </title>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="amphtml" href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171?versao=amp">
+    <link rel="amphtml" href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171?versao=amp">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="canonical" href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" />
-    <meta content="Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha" name="description"/>
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Google anuncia o serviço Google Fiber no Brasil em 2017" />
-    <meta property="og:description" content="Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha" />
-    <meta property="og:url" content="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" />
-    <meta property="og:image" content="http://og.infg.com.br/brasil/19091118-62e-85f/FT460B/220/201604150925184073.jpg" />
-    <meta property="og:locale" content="pt_BR" />
-    <meta property="og:site_name" content="O Globo" />
-    <meta property="fb:app_id" content="431855430329169" />
-    <meta property="article:published_time" content="2016-04-15T8:14" />
-    <meta property="article:modified_time" content="2016-04-15T12:44" />
-    <meta property="article:publisher" content="115230991849922" />
-    <meta property="article:section" content="Brasil" />
-    <meta property="article:tag" content="Brasil,Dilma/PT" />
-    <meta property="fb:app_id" content="431855430329169" />
-    <meta name="twitter:widgets:csp" content="on">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@JornalOGlobo">
-    <meta name="twitter:title" content="Google anuncia o serviço Google Fiber no Brasil em 2017">
-    <meta name="twitter:description" content="Jurista diz que não há golpe, enquanto ministro afirma que processo é retaliação de Eduardo Cunha">
-    <meta name="twitter:image" content="http://og.infg.com.br/brasil/19091118-62e-85f/FT631A/201604150925184073.jpg">
+    <link rel="canonical" href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171" />
     <link rel="publisher" href="https://plus.google.com/+JornalOGlobo/" />
-    <link rel="alternate" type="application/rss+xml" href="http://oglobo.globo.com/rss.xml?secao=pais" title="O Globo - Brasil" />
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171" />
     <link rel="stylesheet" type="text/css" href="http://css.og.infg.com.br/1459981607/css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="http://css.og.infg.com.br/1459981607/css/foundation16.css"/>
     <link rel="stylesheet" type="text/css" href="http://css.og.infg.com.br/1459981607/css/normalize.css"/>
@@ -485,10 +463,10 @@
                         <h3>Assuntos em Destaque</h3>
                         <div class="row">
                             <div class="large-5 columns">
-                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">
                                     <img width="380" height="230" alt="O jurista Miguel Reale Jr. e o ministro da AGU Jos&eacute; Eduardo Cardozo Foto: Ailton de Freitas / O GLOBO" title="O jurista Miguel Reale Jr. e o ministro da AGU Jos&eacute; Eduardo Cardozo Foto: Ailton de Freitas / O GLOBO" src="http://og.infg.com.br/in/19092041-398-b29/FT1086A/230/camara-materia-1.jpg"/>
                                 </a>
-                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">Google anuncia o serviço Google Fiber no Brasil em 2017</a>
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171" title="Google anuncia o serviço Google Fiber no Brasil em 2017">Google anuncia o serviço Google Fiber no Brasil em 2017</a>
                             </div>
                             <div class="large-5 columns">
                                 <a href="http://oglobo.globo.com/brasil/nyt-ressalta-que-dilma-alvo-de-deputados-envolvidos-em-escandalos-19095030" title="‘NYT’ ressalta que Dilma é alvo de deputados envolvidos em escândalos">
@@ -995,11 +973,11 @@ Foto: Givaldo Barbosa/14-10-2015 / Ag&ecirc;ncia O Globo" src="http://og.infg.co
                     <div id="emDestaque" class="slider-materia-wrapper">
                         <ul class="clearfix">
                             <li>
-                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171">
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171">
                                     <img width="234" height="140" alt="O jurista Miguel Reale Junior, &agrave; esquerda, e o advogado-geral da Uni&atilde;o, &agrave; direita, na sess&atilde;o da C&acirc;mara que analisa o impeachment da presidente Dilma Foto: A&iacute;lton de Freitas / Ag&ecirc;ncia O Globo" title="O jurista Miguel Reale Junior, &agrave; esquerda, e o advogado-geral da Uni&atilde;o, &agrave; direita, na sess&atilde;o da C&acirc;mara que analisa o impeachment da presidente Dilma Foto: A&iacute;lton de Freitas / Ag&ecirc;ncia O Globo" src="http://og.infg.com.br/in/19091172-62b-b87/FT1086A/140/impzz.jpg"/>
                                 </a>
                                 <p class="editoria">Brasil</p>
-                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servi%C3%A7o-google-fiber-no-brasil-em-2017-31415926535171" class="titulo">Ao vivo: Deputados discursam sobre votação do impeachment</a>
+                                <a href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171" class="titulo">Ao vivo: Deputados discursam sobre votação do impeachment</a>
                             </li>
                             <li>
                                 <a href="http://oglobo.globo.com/brasil/dilma-fara-defesa-de-seu-mandato-na-tv-nesta-sexta-feira-19092083">
