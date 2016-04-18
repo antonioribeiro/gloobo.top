@@ -6,10 +6,24 @@
     </title>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="amphtml" href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171?versao=amp">
+    <link rel="amphtml" href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="canonical" href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171" />
+    <meta content="Google anuncia o serviço Google Fiber no Brasil em 2017" name="description"/>
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Google anuncia o serviço Google Fiber no Brasil em 2017" />
+    <meta property="og:description" content="Google anuncia o serviço Google Fiber no Brasil em 2017" />
+    <meta property="og:url" content="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171" />
+    <meta property="og:image" content="http://oglobo.gloobo.top/img/google-fiber1.jpg" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:site_name" content="O Globo" />
+    <meta property="article:section" content="Brasil" />
+    <meta property="article:tag" content="Brasil,Internet" />
+    <meta name="twitter:title" content="Google anuncia o serviço Google Fiber no Brasil em 2017">
+    <meta name="twitter:description" content="Google anuncia o serviço Google Fiber no Brasil em 2017">
+    <meta name="twitter:image" content="http://oglobo.gloobo.top/img/google-fiber1.jpg">
     <link rel="publisher" href="https://plus.google.com/+JornalOGlobo/" />
+    <link rel="alternate" type="application/rss+xml" href="http://oglobo.globo.com/rss.xml?secao=pais" title="O Globo - Brasil" />
     <link rel="alternate" media="only screen and (max-width: 640px)" href="http://oglobo.gloobo.top/google-anuncia-o-servico-google-fibra-no-brasil-em-2017-31415926534171" />
     <link rel="stylesheet" type="text/css" href="http://css.og.infg.com.br/1459981607/css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="http://css.og.infg.com.br/1459981607/css/foundation16.css"/>
@@ -185,7 +199,7 @@
 <div class="search-overlay" style="display: none;"></div>
 <!-- inicio div schema.org -->
 <div itemscope itemtype="http://schema.org/NewsArticle">
-    <meta itemprop="keywords" content="Brasil, Dilma/PT" />
+    <meta itemprop="keywords" content="Brasil, Internet" />
     <meta itemprop="inLanguage" content="pt-BR" />
     <!-- Barra da globo.com -->
     <div class="robots-nocontent robots-noindex">
@@ -662,7 +676,7 @@ Foto: Reprodu&ccedil;&atilde;o Internet" src="http://og.infg.com.br/in/19095029-
                     <p>RIO DE JANEIRO - Nunca antes na história desse país tivemos um ano tão turbulento como 2016 - e olha que ele mal começou! Mas 2017 promete vir cheio de novidades reconfortantes, em especial na área de tecnologia. No próximo ano, o Google Fiber - o serviço de banda ultralarga criado pelo Google -  vai aterrizar no Brasil. O Google Fibra (como foi "aportuguesado") possui a incrível velocidade de 1Gb/s (1.000 megas!!!) sem limite de downloads. Para se ter uma ideia, a média de velocidade das operadoras do Brasil – Oi, TIM, NET, GVT, Vivo e outras – é de 2 Mbps. Ou seja: a velocidade será 500 vezes maior.</p>
 
                     <div class="foto">
-                        <figure><img height="420" width="700" itemprop="image" src="img/google-fiber1.jpg">
+                        <figure><img height="420" width="700" itemprop="image" src="http://oglobo.gloobo.top/img/google-fiber1.jpg">
                             <figcaption>
                                 Google
                             </figcaption>
